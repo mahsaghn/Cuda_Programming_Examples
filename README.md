@@ -24,6 +24,12 @@ for all i in 0 .. n ‐ 1:
       array[cnt] = myValue;
 ```
 
-## 2. Odd Even Sort
+## 2. Odd Even Transposition Sort
+<img src="https://github.com/mahsaghn/Cuda_Programming_Examples/blob/master/statistics/2_odd_even.png" width=500>
 
+For more details of the algorithm see [GeeksForGeeks:Odd Even Transposition Sort](https://www.geeksforgeeks.org/odd-even-transposition-sort-brick-sort-using-pthreads/)
 ## 3. Blelloch's Parallel Prefix
+Here is the schematic of the Blelloch's sort algorithm on a list including eight elements. 
+
+<img src="https://github.com/mahsaghn/Cuda_Programming_Examples/blob/master/statistics/3.png" width=500>
+
